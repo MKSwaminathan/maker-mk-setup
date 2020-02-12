@@ -1,3 +1,9 @@
+#
+# This is just a helpful web tool for a CLI
+#
+# Author: MK Swaminathan
+#
+
 #!/bin/bash
 
 gg() {

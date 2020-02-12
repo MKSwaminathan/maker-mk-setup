@@ -1,0 +1,34 @@
+alias vrc='vi ~/.vimrc'
+alias sb='source ~/.bash_profile'
+alias vb='vi ~/.bash_profile'
+alias vba='vi ~/.bash_aliases'
+alias bi='brew install'
+
+# GEN
+export DOCS="$HOME/Documents/"
+export DNL="$HOME/Downloads/" 
+
+# Githib
+alias commgit='sh ~/ENV/commit.sh'
+
+# Protiens
+export PROT="$HOME/Proteins/"
+
+# UT 
+export DSL="$HOME/UT/DSL/"
+
+# Matlab
+alias matlab='/Applications/MATLAB_R2019a.app/bin/matlab -nodesktop'
+
+# Mergepdf
+alias mergepdf='"/System/Library/Automator/Combine PDF Pages.action/Contents/Resources/join.py"'
+# Google Calendar
+alias cal='gcalcli'
+
+# Virtualenv aliases
+alias mkenv='mkvirtualenv'
+alias rmenv='rmvirtualenv'
+
+# ENV/Scripts
+alias open3d_set='source ~/ENV/setup_venv_open3d.sh'
+

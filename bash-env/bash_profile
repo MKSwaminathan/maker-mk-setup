@@ -1,0 +1,252 @@
+echo "            ________   ___   ____                                             "
+echo "           / __   __| / _ \ |  _ \                                            " 
+echo "     ______> \ | |   |  _  ||    /_____________________________               "
+echo "    / _______/ |_|   |_| |_||_|\______________________________ \              "
+echo "   / /                                                        \ \             "
+echo "  | |                                                          | |            "
+echo "  | |     Welcome Shwetha, to a galaxy far, far away ...       | |            "
+echo "  | |                                                          | |            "
+echo "   \ \____________________________    _   ___   ____   _______/ /             "
+echo "    \___________________________  |  | | / _ \ |  _ \ / _______/              "
+echo "                                | |/\| ||  _  ||    / > \                     "
+echo "                                 \_/\_/ |_| |_||_|\_\|__/                     "
+echo "                                                                              "
+
+now=$(date)
+day=${now:0:3}
+echo " Today's content ... "
+echo "  "
+if [ "$day" == "Mon" ]; then
+    echo "           .            .                     .                                "
+    echo "                  _        .                          .            (           "
+    echo "                 (_)        .       .                                     .    "
+    echo "  .        ____.--^.                                                           "
+    echo "   .      /:  /    |                               +           .         .     "
+    echo "         /:  *--=--*   .                                                .      "
+    echo "        /: __[\==*-.___          *           .                                 "
+    echo "       /__|\ _~~~~~~   ~~--..__            .             .                     "
+    echo "       \   \|::::|-----.....___|~--.                                 .         "
+    echo "        \ _\_~~~~~-----:|:::______//---...___                                  "
+    echo "    .   [\  \  __  --     \       ~  \_      ~~~===------==-...____            "
+    echo "        [============================================================-         "
+    echo "        /         __/__   --  /__    --       /____....----****~~~~      .     "
+    echo "  *    /  /   ==           ____....=---=***~~~~ .                              "
+    echo "      /____....--=-***:~~~~                      .                .            "
+    echo "      .       ~--~         Kuat Drive Yards Imperial-class Star Destroyer      "
+    echo "                     .                                   .           .         "
+    echo "                          .                      .             +               "
+    echo "        .     +              .                                       <=>       "
+    echo "                                               .                .      .       "
+    echo "   .                 *                 .                *                * -   "
+    echo "                                                                               "
+    echo "_______________________________________________________________________________  "
+    echo "%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%  "
+    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  "
+fi 
+
+
+if [ "$day" == "Tue" ]; then
+    echo "   T T                                          T T                                   "
+    echo "   | |                                          | |                                   "
+    echo "   | |                                          | |                                   "
+    echo "   | |                                          | |                                   "
+    echo "   | |                                          | |                                   "
+    echo "   | |                                          | |                                   "
+    echo "   | |                                          | |                                   "
+    echo "   | |                   ____                   | |                                   "
+    echo "   | |            ___.r-**--**-r.____           | |                                   "
+    echo "   | |.-._,.,---~*_/_/  .----.  \_\_*~---,.,_,-.| |                                   "
+    echo "   | ]|.[_]_ T~T[_.-Y  / \  / \  Y-._]T~T _[_].|| |                                   "
+    echo "  [|-+[  ___]| [__  |-=[--()--]=-|  __] |[___  ]+-|]                                  "
+    echo "   | ]|*[_]  l_j[_*-l  \ /  \ /  !-*_]l_j  [_]~|| |                                   "
+    echo "   | |*-* *~*---.,_\*\  *o--o*  /*/_,.---*~* *-*| |                                   "
+    echo "   | |             ~~*^-.____.-^*~~             | |                                   "
+    echo "   | |                                          | |                                   "
+    echo "   | |                                          | |                                   "
+    echo "   | |                                          | |                                   "
+    echo "   | |                                          | |  Sienar Fleet Systems             "
+    echo "   | |                                          | |  TIE/In Space Superiority         "
+    echo "   | |                                          | |  Starfighter (3)                  "
+    echo "   | |                                          | |                                   "
+    echo "   l_i                                          l_j                                   "
+    echo "                                                                                      "
+    echo "_______________________________________________________________________________  "
+    echo "%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%  "
+    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  "
+fi 
+
+
+if [ "$day" == "Wed" ]; then
+    echo "                                        .                                         "
+    echo "                              .-o                                                 "
+    echo "                 .           /  |                                                 "
+    echo "        .                 . /   |   .                                             "
+    echo "                           /    |                                                 "
+    echo "                  .       /     |                                                 "
+    echo "  .                      /      /         .                                       "
+    echo "             .          /    _./   .                                              "
+    echo "                   _.---~-.=:_                                                    "
+    echo "                  (_.-=() <~*-*-.                                                 "
+    echo "                 _/ _() ~*-==-._,>                                                "
+    echo "         ..--====--* *~-._.__()                                                   "
+    echo "     o===**~~             |__()                                                   "
+    echo "                .         \   |             .                                     "
+    echo "                           \  \                                                   "
+    echo "                            \  \     .                                            "
+    echo "        .                    \  \           Sienar Fleet Systems                  "
+    echo "                 .            \  \          Lambda-class Imperial Shuttle (3)     "
+    echo "                               \_ \        .                                      "
+    echo "                                 ~o                                               "
+    echo "_______________________________________________________________________________  "
+    echo "%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%  "
+    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  "
+fi     
+   
+
+if [ "$day" == "Thu" ]; then
+    echo "                c==o                                                              "
+    echo "              _/____\_                                                            "
+    echo "       _.,--** ||^ || **z._                                                       "
+    echo "      /_/^ ___\||  || _/o\ **-._                                                  "
+    echo "    _/  ]. L_| || .||  \_/_  . _*--._                                             "
+    echo "   /_~7  _ . * ||. || /] \ ]. (_)  . **--.                                        "
+    echo "  |__7~.(_)_ []|+--+|/____T_____________L|                                        "
+    echo "  |__|  _^(_) /^   __\____ _   _|                                                 "       
+    echo "  |__| (_){_) J ]K{__ L___ _   _]                                                 "
+    echo "  |__| . _(_) \ ]    /__________|________                                         "
+    echo "  l__l_ (_). []|+-+-<\    L  . _   - ---L|                                        "
+    echo "   \__\    __. ||^l  \ ] /_]  (_) .  _,--*                                        "
+    echo "     \~_]  L_| || .\ .\ /~.    _,--**                                             "
+    echo "      \_\ . __/||  |\  \ -+-<**                                                   "
+    echo "        **---._|J__L|X o~~|[\\      Millenium Falcon                              "
+    echo "               \____/ \___|[//      Modified Corellian YT-1300 Transport (1)      "
+    echo "                *--*   *--+-*                                                     "
+    echo "_______________________________________________________________________________  "
+    echo "%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%  "
+    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  "
+fi 
+
+
+if [ "$day" == "Fri" ]; then
+    echo "_______ _ _ _ __ __ __  _ ___ _   __  ___  __ __  __  _  ___ _ _  __ _______  "
+    echo "%=x%=x% | |V| |_)|_ |_) | |_| |   |_) |_| (_  |_  |_) |  |_| |\| (_  %=x%=x%  "
+    echo "~~~~~~~ | | | |  |_ | \ | | | |_  |_) | | __) |_  |   |_ | | | | __) ~~~~~~~  "
+    echo "                 .-. .-.                                                      "
+    echo "               .=========.         E x t e r i o r ,   A e r i a l   V i e w  "
+    echo "               ||.-.7.-.||         -----------------------------------------  "
+    echo "               ||*-* *-*||                                                    "
+    echo "               *=========*                                                    "
+    echo "                *-*| |*-*8               1 .............. Sensor Suite Tower  "
+    echo "          ______   |9|   ______          2 ... Heavy Twin Turbolaser Turrets  "
+    echo "         /     /\__| |__/\     \         3 ............. Heavy Laser Turrets  "
+    echo "        /  \_ / /  |_|  \ \ _/  \        4 ....... TIE Fighter Launch Chutes  "
+    echo "       /___(\\\/         \///)___\       5 ............... Heavy Blast Doors  "
+    echo "       \____\\*===========*//____/       6 .................... Guard towers  "
+    echo "       /     */ .-------. \\     \       7 ........ Shuttle Landing Platform  "
+    echo "    __/     //. \*+---+*/ .\\     \__    8 ........... AT-AT Docking Station  "
+    echo "   /\ \    ///x*.\|___|/.*x\\\    / /\   9 ................. Connecting Ramp  "
+    echo "  /  \ \  //*-._//|   |\\_.2*\\  / /  \                                       "
+    echo " /  _.-===*_____//.-=-.\\_____*===-._  \                                      "
+    echo " \   *-===.\-.  \ *-=1* /  .-/.===-* 3 / The pre-fabricated,  multi-function  "
+    echo "  \  / /  \\\ \  \.===./  /4///  \ \  /  Imperial garrison base is the back-  "
+    echo "   \/_/    \\\ | /.---.\ | ///    \_\/   bone of the  Empire*s  occupational  "
+    echo "      \     \\\|/ |_m_| \|///     /      forces. These heavily-armoured for-  "
+    echo "       \_____\=============/_____/       tresses have  walls up to 10 meters  "
+    echo "       /____///    ___    \\\____\       thick  to  guard   against   ground  "
+    echo "       \   (_//\__|||||__/\\_)   /       assaults,  and  powerful  deflector  "
+    echo "        \  /  \|,,|||||,,|/  \  /        shields  protect  them  for  air or  "
+    echo "         \_____|  | 5 | 6|_____/         space attacks.                       "
+    echo "               *--*   *--*                                                    "
+    echo "____________________________________________________________________________  "
+    echo "%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%  "
+    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  "
+fi 
+   
+
+if [ "$day" == "Sat" ]; then
+    echo "_______ _ _ _ __ __ __  _ ___ _   __  ___  __ __  __  _  ___ _ _  __ _______  "
+    echo "%=x%=x% | |V| |_)|_ |_) | |_| |   |_) |_| (_  |_  |_) |  |_| |\| (_  %=x%=x%  "
+    echo "~~~~~~~ | | | |  |_ | \ | | | |_  |_) | | __) |_  |   |_ | | | | __) ~~~~~~~  "
+    echo "                           U           E x t e r i o r ,   S i d e   V i e w  "
+    echo "                          /_\          -------------------------------------  "
+    echo "                       1 [___]                                                "
+    echo "                         :*:*:           1 .............. Sensor Suite Tower  "
+    echo "                         *:::*           2 ... Heavy Twin Turbolaser Turrets  "
+    echo "                  _       :_:       _    3 ............. Heavy Laser Turrets  "
+    echo "                =[ ]2     [%]      [ ]=  4 ....... Tie Fighter Launch Chutes  "
+    echo "                 :=:      :=:      :=:   5 ............... Heavy Blast Doors  "
+    echo "                _|_|_   __| |__   _|_|_  6 .................... Guard Towers  "
+    echo "               / /XX|\ /__|_|__\ /|XX\ \                                      "
+    echo "         3    /4/XXX| | _/___\_ | |XXX\ \             7 ....... AT-AT Walker  "
+    echo "    --===____/--===X|_|/_______\|_|X===--\____===--   8 ........ AT-ST Scout  "
+    echo "     /__| |     /l_\\             //_|\     |_|__\                            "
+    echo "    /~~.* |    /:*  \\   _____   //  *:\    | *.  \                           "
+    echo "   /   | .*   / |    \\==|||||==//    | \   *. |   \   7    8                 "
+    echo "  /   .* |   / .*     |  ||5|| 6|     *. \   | *.   \  xx=   _                "
+    echo " /____|__|__/__|______l__|||||__l______|__\__|__|____\ ll   <~                "
+    echo "                                                                              "
+    echo "____________________________________________________________________________  "
+    echo "%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%  "
+    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  "
+
+fi 
+
+
+if [ "$day" == "Sun" ]; then
+    echo "                                               ____________                        "
+    echo "                                --)-----------|____________|                       "  
+    echo "                                              ,*       ,*                          "
+    echo "                -)------========            ,*  ____ ,*                            "
+    echo "                         *.    *.         ,*  ,*__ ,*                              "
+    echo "                           *.    *.     ,*       ,*                                "
+    echo "                             *.    *._,*_______,*__                                "
+    echo "                               [._ _| ^--      || |                                "
+    echo "                       ____,...-----|__________ll_|\                               "  
+    echo "      ,.,..-------+++++     +----*                 ||                              "
+    echo "  .-++  |=========================== ______________ |                              "
+    echo "   +-...l_______________________    |  |*      || |_]                              "
+    echo "                                [*-.|__________ll_|      Incoms T-65B X-wing       "
+    echo "                              ,*    ,* *.        *.      Space Superiority         "
+    echo "                            ,*    ,*     *.    ____*.    Starfighter (2)           "
+    echo "                -)---------========        *.  *.____*.                            "
+    echo "                                             *.        *.                          "
+    echo "                                               *.________*.                        "
+    echo "                               --)-------------|___________|                       "
+    echo "                                                                                   "   
+    echo "                                                                                   "
+    echo "                                                                                   "
+    echo "_______________________________________________________________________________  "
+    echo "%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%=x%  "
+    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  "
+fi
+
+
+# REMAPS
+cdls() { cd "$@" && ls; }
+
+# GOATS
+source ~/.bash_aliases
+source ~/ENV/web_cmds.sh
+
+#shoptions
+shopt -s autocd cdable_vars
+export PATH='/Users/shwetha/Library/Python/3.7/bin:'$PATH
+export PATH="/usr/local/anaconda3/bin:$PATH"
+
+
+# The next line updates PATH for the Google Cloud SDK.
+if [ -f '/Users/shwetha/Downloads/google-cloud-sdk/path.bash.inc' ]; then . '/Users/shwetha/Downloads/google-cloud-sdk/path.bash.inc'; fi
+
+# The next line enables shell command completion for gcloud.
+if [ -f '/Users/shwetha/Downloads/google-cloud-sdk/completion.bash.inc' ]; then . '/Users/shwetha/Downloads/google-cloud-sdk/completion.bash.inc'; fi
+
+# Setting PATH for Python 3.6
+# The original version is saved in .bash_profile.pysave
+PATH="/Library/Frameworks/Python.framework/Versions/3.6/bin:${PATH}"
+export PATH
+
+# virtualenv startup
+export WORKON_HOME=~/Envs
+mkdir -p $WORKON_HOME
+source /usr/local/anaconda3/bin/virtualenvwrapper.sh &> /dev/null
+
